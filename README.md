@@ -1,16 +1,15 @@
+# Samurai Fighter Game
 <p align="center">
 <img src="/assets/line.gif">             
 </p>
-# Samurai Fighter Game
-
 Welcome to Samurai Fighter, a two-player game where players engage in epic battles as skilled samurai warriors!
 
 ![Samurai Fighter Game](samurai_fighter_game.png)
+
+## How to Play
 <p align="center">
 <img src="/assets/line.gif">             
 </p>
-## How to Play
-
 1. **Objective:** Defeat your opponent by reducing their health to zero.
 
 2. **Controls:**
@@ -36,25 +35,23 @@ Welcome to Samurai Fighter, a two-player game where players engage in epic battl
    - The player with remaining health at the end of the round earns a point.
    - The first player to reach a certain number of points (e.g., 5) wins the game.\
    - Visit https://quicksilver-lab.github.io/Samurai-Fighter/
-<p align="center">
-<img src="/assets/line.gif">             
-</p>
+
 ## Technologies Used
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 - HTML/CSS/JavaScript
-<p align="center">
-<img src="/assets/line.gif">             
-</p>
+
 ## Contributing
-
+<p align="center">
+<img src="/assets/line.gif">             
+</p>
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
-<p align="center">
-<img src="/assets/line.gif">             
-</p>
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+## License
 <p align="center">
 <img src="/assets/line.gif">             
 </p>
+This project is licensed under the [MIT License](LICENSE).
+
 ![QuickSilver](/assets/footer.svg)
