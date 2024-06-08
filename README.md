@@ -29,7 +29,8 @@ Welcome to Samurai Fighter, a two-player game where players engage in epic battl
 4. **Scoring:**
    - Each successful attack reduces the opponent's health.
    - The player with remaining health at the end of the round earns a point.
-   - The first player to reach a certain number of points (e.g., 5) wins the game.
+   - The first player to reach a certain number of points (e.g., 5) wins the game.\
+   - Visit https://quicksilver-lab.github.io/Samurai-Fighter/
 
 ## Technologies Used
 
