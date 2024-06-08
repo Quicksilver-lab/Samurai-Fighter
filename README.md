@@ -34,7 +34,6 @@ Welcome to Samurai Fighter, a two-player game where players engage in epic battl
 ## Technologies Used
 
 - HTML/CSS/JavaScript
-- [Insert any libraries/frameworks used, e.g., Phaser, jQuery, etc.]
 
 ## Demo
 
